@@ -1,0 +1,31 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Mnandi Retail Lite",
+    "short_name": "Mnandi Retail  Lite",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "index.php?utm_source=homescreen",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Buy Products online at Mnandi Retail And Get Them Delivered At Your Doorstep. Best Quality Always Ensured",
+    "orientation": "any",
+    "purpose": "maskable",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+          "src": "http://localhost:81/supermarket14/assets/images/ICON-192.png",
+          "type": "image/png",
+          "sizes": "192x192",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "http://localhost:81/supermarket14/assets/images/ICON-512.png",
+          "type": "image/png",
+          "sizes": "512x512",
+          "purpose": "any maskable"
+        }
+    ],
+    "url": "http://localhost:81/supermarket14/"
+}
