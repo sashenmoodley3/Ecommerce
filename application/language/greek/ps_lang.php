@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 $lang['View Product']               = "Δείτε το προϊόν";
 $lang['Wallet Anmount']             = "Γουαλτ Νάμωνα";
@@ -1223,4 +1224,1231 @@ $lang['Raise a Ticket'] = "Λεβέντα και Μπολέτο";
 
 /* End of file ps_lang.php */
 /* Location: ./system/language/english/ps_lang.php */
+=======
+<?php
+$lang['View Product']               = "Δείτε το προϊόν";
+$lang['Wallet Anmount']             = "Γουαλτ Νάμωνα";
+$lang['AMP code']                   = "AMP Code";
+$lang['Microformats']               = "Microformats";
+$lang['Schema']                     = "Schema";
+$lang['(Inclusive of all taxes)']   = "(Περιλαμβάνει όλους τους φόρους)";
+$lang['MRP']                        = "MRP";
+$lang['Price']                      = "Τιμή";
+$lang['Added To Cart']              = "Προστέθηκε στο καλάθι";
+$lang['Add To Cart']                = "Προσθήκη στο καλάθι";
+$lang['Out Of Stock']               = "Μη διαθέσιμο";
+// Web New Tag
+$lang['Recent Product']             = "Πρόσφατο προϊόν";
+$lang['Top Selling Products']       = "Προϊόντα με κορυφαίες πωλήσεις";
+$lang['Today Best Offer']           = "Σήμερα καλύτερη προσφορά";
+$lang['Recent Product']             = "Πρόσφατο προϊόν";
+$lang['Recent Product']             = "Πρόσφατο προϊόν";
+$lang['Recent Product']             = "Πρόσφατο προϊόν";
+$lang['Cart']                       = "Καροτσάκι";
+$lang['Item']                       = "Είδος";
+$lang['Recently added item']        = "Προστέθηκε πρόσφατα αντικείμενο";
+$lang['Checkout']                   = "ολοκλήρωση παραγγελίας";
+$lang['View Cart']                  = "Προβολή καλαθιού";
+$lang['Subtotal']                   = "ΜΕΡΙΚΟ ΣΥΝΟΛΟ";
+$lang['Aapko Kya Chahiye?']         = "Εσυ τι θελεις?";
+$lang['Shop by category']           = "Αγορά ανά κατηγορία";
+$lang['Home']                       = "Σπίτι";
+$lang['Shop']                       = "Κατάστημα";
+$lang['Contact Us']                 = "Επικοινωνήστε μαζί μας";
+$lang['about us']                   = "σχετικά με εμάς";
+$lang['Sale']                       = "Πώληση";
+$lang['Quick Links']                = "Γρήγοροι σύνδεσμοι";
+$lang['Terms & Conditions']         = "όροι και Προϋποθέσεις";
+$lang['Privacy Policy']             = "Πολιτική απορρήτου";
+$lang['Refund Policy']              = "Πολιτική επιστροφής";
+$lang['FAQ']                        = "Συχνές ερωτήσεις";
+$lang['Mobile No.']                 = "Οχι κινητό.";
+$lang['Submit']                     = "υποβάλλουν";
+$lang['Forgot Password']            = "Ξεχάσατε τον κωδικό";
+$lang['Benefits of Sign In']        = "Οφέλη από τη σύνδεση";
+$lang['Sign in / Register to continue shopping']                       = "Συνδεθείτε / Εγγραφείτε για να συνεχίσετε τις αγορές σας";
+$lang['NEW USER ? REGISTER NOW']    = "ΝΕΟΣ ΧΡΗΣΤΗΣ ? ΚΑΝΕ ΕΓΓΡΑΦΗ ΤΩΡΑ";
+$lang['OR']                         = "Ή";
+$lang['New Customer']               = "Νέος πελάτης";
+$lang['Login']                      = "Σύνδεση";
+$lang['Show']                       = "προβολή";
+$lang['Password']                   = "Κωδικός πρόσβασης";
+$lang['Mobile Number']              = "Αριθμός κινητού";
+$lang['OR']                         = "Ή";
+$lang['NEW USER ? REGISTER NOW']    = "ΝΕΟΣ ΧΡΗΣΤΗΣ ? ΚΑΝΕ ΕΓΓΡΑΦΗ ΤΩΡΑ";
+$lang['Sign in / Register to continue shopping']                       = "Συνδεθείτε / Εγγραφείτε για να συνεχίσετε τις αγορές σας";
+$lang['Sign up today and you will be able to']                   = "Εγγραφείτε σήμερα και θα μπορείτε να το κάνετε";
+$lang['Speed your way through checkout']                         = "Επιταχύνετε το δρόμο σας στο ταμείο";
+$lang['Track your orders easily']                         = "Παρακολουθήστε εύκολα τις παραγγελίες σας";
+$lang['Keep a record of all your purchases']                         = "Κρατήστε ένα αρχείο όλων των αγορών σας";
+$lang['Brand']                      =  "Μάρκα";
+
+$lang['Sign In']                    = "Συνδεθείτε";
+$lang['Register']                   = "Κανω ΕΓΓΡΑΦΗ";
+$lang['Referral Code']              = "Κωδικός παραπομπής";
+$lang['Email']                      = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+$lang['Confirm Password']           = "Επιβεβαίωση Κωδικού";
+$lang['Password']                   = "Κωδικός πρόσβασης";
+$lang['OTP']                        = "ΟΤΡ";
+$lang['OTP Resend']                 = "Επανάληψη αποστολής OTP";
+$lang['Already Exist']              = "Υπάρχει ήδη";
+$lang['OTP send']                   = "Αποστολή OTP";
+$lang['Mobile Number']              = "Αριθμός κινητού";
+$lang['Last Name']                  = "Επίθετο";
+$lang['Full Name']                 = "Πλήρες όνομα";
+$lang['Register']                   = "Κανω ΕΓΓΡΑΦΗ";
+$lang['My Account']                 = "Ο λογαριασμός μου";
+$lang['Send']                       = "Στείλετε";
+$lang['Phone']                      = "Τηλέφωνο";
+$lang['Email']                      = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+$lang['Name']                       = "Ονομα";
+$lang['Message']                    = "Μήνυμα";
+$lang['Return Request']             = "Αίτημα επιστροφής";
+$lang['Reason']                     = "Λόγος";
+$lang['Picture']                    = "Εικόνα";
+$lang['Submit']                     = "υποβάλλουν";
+$lang['ID']                         = "ταυτότητα";
+$lang['Order Id']                   = "Αριθμός Παραγγελίας";
+$lang['Request On']                 = "Αίτημα ενεργοποιημένο";
+$lang['Image']                      = "Εικόνα";
+$lang['Status']                     = "Κατάσταση";
+$lang['Request Empty']              = "Αίτημα κενό";
+$lang['Share on']                   = "Κοινή χρήση";
+$lang['Quantity']                   = "Ποσότητα";
+$lang['Related Products']           = "Σχετικά προϊόντα";
+$lang['No Product Found']           = "Δεν βρέθηκε προϊόν";
+$lang['NO RESULT FOUND']            = "ΔΕΝ ΒΡΕΘΗΚΕ ΑΠΟΤΕΛΕΣΜΑ";
+$lang['Add to Cart']                = "Προσθήκη στο καλάθι";
+$lang['Product Name']               = "Ονομασία προϊόντος";
+$lang['Images']                     = "Εικόνες";
+$lang['Remove']                     = "Εικόνες";
+$lang['My Wishlist']                = "Η λίστα επιθυμιών μου";
+$lang['Cart Empty']                 = "Άδειο καλάθι";
+$lang['Continue shopping']          = "Συνεχίστε τις αγορές";
+$lang['Proceed to checkout']        = "Προχωρήστε στο ταμείο";
+$lang['You saved']                  = "Εσωσες";
+$lang['Total']                      = "Σύνολο";
+$lang['Delivery Charges']           = "Χρεώσεις παράδοσης";
+$lang['Save Price']                 = "Εξοικονομήστε τιμή";
+$lang['Total Price']                = "Συνολικό ποσό";
+$lang['Price']                      = "Τιμή";
+$lang['Description']                = "Περιγραφή";
+$lang['Product']                    = "Προϊόν";
+$lang['Saving']                     = "Οικονομία";
+$lang['Total']                      = "Σύνολο";
+$lang['Qty']                        = "Ποτ";
+$lang['Unit price']                 = "Τιμή μονάδας";
+$lang['Shopping Cart']              = "Καλάθι αγορών";
+$lang['Shop Now']                   = "Ψώνισε τώρα";
+$lang['Society/Flat']               = "Κοινωνία / Διαμέρισμα";
+$lang['Pincode']                    = "Κωδικό PIN";
+$lang['Address']                    = "Διεύθυνση";
+$lang['Edit Address']               = "Επεξεργασία διεύθυνσης";
+$lang['My Order']                   = "Η παραγγελία μου";
+$lang['address']                    = "διεύθυνση";
+$lang['email']                      = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+$lang['mobile']                     = "κινητό";
+$lang['INVOICE TO']                 = "ΤΙΜΟΛΟΓΙΟ";
+$lang['INVOICE']                    = "ΤΙΜΟΛΟΓΙΟ";
+$lang['Date of Invoice']            = "Ημερομηνία τιμολογίου";
+$lang['Item']                       = "Είδος";
+$lang['PRICE']                      = "ΤΙΜΗ";
+$lang['QTY']                        = "QTY";
+$lang['TOTAL']                      = "ΣΥΝΟΛΟ";
+$lang['SUBTOTAL']                   = "ΜΕΡΙΚΟ ΣΥΝΟΛΟ";
+$lang['Delivery Charges']           = "Χρεώσεις παράδοσης";
+$lang['Apply Coupan']               = "εφάρμοσε το κουπόνι";
+$lang['GRAND TOTAL']                = "ΣΥΝΟΛΟ";
+$lang['Thank you']                  = "Ευχαριστώ";
+$lang['NOTICE']                     = "ΕΙΔΟΠΟΙΗΣΗ";
+$lang['Invoice was created on a computer and is valid without the signature and seal']                     = "Το τιμολόγιο δημιουργήθηκε σε έναν υπολογιστή και ισχύει χωρίς την υπογραφή και τη σφραγίδα";
+$lang['Profile Summery']            = "Profile Summery";
+$lang['My Profile']                 = "Το ΠΡΟΦΙΛ μου";
+$lang['My Orders']                  = "Οι παραγγελίες μου";
+$lang['My Wallet']                  = "Το πορτοφόλι μου";
+$lang['My Cart']                    = "Καλάθι μου";
+$lang['My Wishlist']                = "Η λίστα επιθυμιών μου";
+$lang['My Address']                 = "Η διεύθυνσή μου";
+$lang['Chart With Us']              = "Γράφημα μαζί μας";
+$lang['Share With Friends']         = "Μοιράσου με φίλους";
+$lang['Change Password']            = "Άλλαξε κωδικό";
+$lang['Mange Profile']              = "Πολλά προφίλ";
+$lang['Mange over own account']     = "Πολλοί με δικό τους λογαριασμό";
+$lang['Username']                   = "Όνομα χρήστη";
+$lang['Update']                     = "Εκσυγχρονίζω";
+$lang['Current Password']           = "Τρέχων κωδικός πρόσβασης";
+$lang['New Password']               = "Νέος Κωδικός";
+$lang['Password Confirm']           = "Επιβεβαίωση κωδικού";
+$lang['Change Password']            = "Άλλαξε κωδικό";
+$lang['Order Empty']                = "Άδεια παραγγελίας";
+$lang['Placed On']                  = "Τοποθετήθηκε";
+$lang['Items']                      = "Είδη";
+$lang['Status']                     = "Κατάσταση";
+$lang['Action']                     = "Δράση";
+$lang['Invoice']                    = "Τιμολόγιο";
+$lang['Order On']                   = "Παραγγελία ενεργοποιημένη";
+$lang['Product Name']               = "Ονομασία προϊόντος";
+$lang['Total Items']                = "Σύνολο αντικειμένων";
+$lang['Cash On Delivery']           = "Με αντικαταβολή";
+$lang['Available Wallet History']   = "Διαθέσιμο ιστορικό πορτοφολιού";
+$lang['Today available Wallet']     = "Σήμερα διαθέσιμο Πορτοφόλι";
+$lang['Cr.']                        = "Κρ.";
+$lang['Dr.']                        = "Δρ.";
+$lang['Delivery Information']       = "πληροφορίες αποστολής";
+$lang['Delivery Address']           = "Διεύθυνση παράδοσης";
+$lang['Shipping Address']           = "Διεύθυνση αποστολής";
+$lang['Change']                     = "Αλλαγή";
+$lang['Select Delivery Date']       = "Επιλέξτε Ημερομηνία παράδοσης";
+$lang['Payment Information']        = "Πληροφορίες Πληρωμής";
+$lang['Shopping Cart Summary']      = "Σύνοψη καλαθιού αγορών";
+$lang['Wallet Amount']              = "Ποσό Πορτοφολιού";
+$lang['Remaing Wallet']             = "Υπόλοιπο πορτοφόλι";
+$lang['Your Total Savings']         = "Οι συνολικές σας αποταμιεύσεις";
+$lang['Total Amount Payable']       = "Συνολικό πληρωτέο ποσό";
+$lang['Voucher Discount']           = "Έκπτωση κουπονιού";
+$lang['FREE']                       = "ΕΛΕΥΘΕΡΟΣ";
+$lang['Delivery Charge']            = "Χρέωση παράδοσης";
+$lang['Cart Value']                 = "Αξία καλαθιού";
+$lang['Have a voucher code']        = "Έχετε έναν κωδικό κουπονιού";
+$lang['APPLY']                      = "ΙΣΧΥΟΥΝ";
+$lang['Your Checkout']              = "Το Ταμείο σας";
+$lang['Apply Voucher']              = "Εφαρμόστε κουπόνι";
+$lang['Place Order']                = "Παραγγέλνω";
+$lang['Society/Flat']               = "Κοινωνία / Διαμέρισμα";
+$lang['Pincode']                    = "Κωδικό PIN";
+$lang['Add Address']                = "Προσθήκη διεύθυνσης";
+$lang['Please Select Society']      = "Επιλέξτε Εταιρεία";
+$lang['Mobile No.']                 = "Οχι κινητό.";
+$lang['Select Delivery Time']       = "Επιλέξτε Ώρα παράδοσης";
+$lang['Email']                      = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+//new
+$lang['Wallet Management']          = "Διαχείριση Πορτοφολιού";
+$lang['Catalog']                    = "Κατάλογος";
+$lang['Inventory']                  = "Καταγραφή εμπορευμάτων";
+$lang['Sales']                      = "Εκπτώσεις";
+$lang['Delivery Boy']               = "Ντελιβεράς";
+$lang['Refund Amount']              = "Ποσό επιστροφής χρημάτων";
+$lang['Setting']                    = "Σύνθεση";
+$lang['Company Setting']            = "Ρύθμιση εταιρείας";
+$lang['App Setting']                = "Ρύθμιση εφαρμογής";
+$lang['Frontend Setting']           = "Ρύθμιση frontend";
+$lang['Setting']                    = "Σύνθεση";
+$lang['Language Setting']           = "Ρυθμίσεις γλώσσας";
+$lang['Payment Integration']        = "Ενσωμάτωση πληρωμών";
+$lang['Mail Template']              = "Πρότυπο αλληλογραφίας";
+$lang['Firebase Setting']           = "Ρύθμιση Firebase";
+$lang['Invoice Template']           = "Πρότυπο τιμολογίου";
+$lang['SEO Setting']                = "Ρύθμιση SEO";
+$lang['CMS']                        = "CMS";
+$lang['Ads']                        = "Ads";
+$lang['Notificación']               = "Γνωστοποίηση";
+$lang['Tutorial']                   = "Φροντιστήριο";
+$lang['Categorías']                 = "Κατηγορίες";
+$lang['Products Image Upload']      = "Μεταφόρτωση εικόνας προϊόντων";
+$lang['BULK UPLOAD SUB CATEGORY']   = "ΚΑΤΗΓΟΡΙΑ ΜΑΖΙΚΗΣ ΑΝΑΠΤΥΞΗΣ";
+
+
+// Language
+$lang['arabic']                     = "αραβικός";
+$lang['english']                    = "Αγγλικά";
+$lang['spanish']                    = "Ισπανικά";
+$lang['greek']                      = "Ελληνικά";
+$lang['hindi']                      = "Χίντι";
+$lang['Select Banner Size']         = "Επιλέξτε Μέγεθος banner";
+$lang['Small']                      = "Μικρό";
+$lang['FullSize']                   = "Πλήρες μέγεθος";
+$lang['Chat Script']                = "Συζήτηση σεναρίου";
+$lang['Footer About']               = "Υποσέλιδο για";
+$lang['Address']                    = "Διεύθυνση";
+$lang['Product Type']               = "Τύπος Προϊόντος";
+$lang['Veg']                        = "Λαχανικά";
+$lang['Nonveg']                     = "Μη";
+$lang['Product Swadeshi']           = "Προϊόν Swadeshi";
+$lang['Select Product Swadeshi']   = "Επιλέξτε Προϊόν Swadeshi";
+$lang['Swadeshi']                   = "Swadeshi";
+$lang['Videshi']                    = "Videshi";
+$lang['Select Banner Type']         = "Επιλέξτε Τύπος banner";
+$lang['4 Small + 1 Big Banner']     = "4 Μικρό + 1 Μεγάλο πανό";
+$lang['4 Small Banner']             = "4 Μικρό πανόr";
+$lang['3 Small + 1 Big Banner']     = "3 Μικρό + 1 Μεγάλο πανό";
+$lang['1 Big Banner']               = "1 Μεγάλο πανό";
+$lang['1 Slider Big Banner']        = "1 Slider Big Banner";
+$lang['Banner Size']                = "Μέγεθος πανό";
+$lang['Banner Type']                = "Τύπος banner";
+$lang['Select']                     = "Επιλέγω";
+$lang['Select Product Type']        = "Επιλέξτε Τύπος προϊόντος";
+$lang['Show on Homepage']           = "Εμφάνιση στην αρχική σελίδα";
+$lang['Update Slider']              =   "Ενημέρωση ρυθμιστικού";
+$lang['SMS Password']               = "Κωδικός πρόσβασης SMS";
+$lang['SMS User Name']              = "Όνομα χρήστη SMS";
+$lang['SMS URL']                    = "Διεύθυνση URL SMS";
+$lang['Referral Amount']            = "Ποσό παραπομπής";
+$lang['Sender Amount']              = "Ποσό αποστολέα";
+$lang['Company Favicon']            = "Εταιρεία Favicon";
+$lang['Company Logo']               = "Λογότυπο Εταιρείας";
+$lang['Title']                      = "Τίτλος";
+$lang['Wallet Deduction']           = "Έκπτωση Πορτοφολιού";
+$lang['App Url']                    = "Διεύθυνση URL εφαρμογής";
+$lang['App Version']                = "Έκδοση εφαρμογής";
+$lang['Tag Line']                   = "Γραμμή ετικέτας";
+$lang['Comapny Name']               = "Όνομα εταιρείας";
+$lang['Comapny Mobile']             = "Κινητή εταιρεία";
+$lang['Comapny Email']              = "Εταιρικό email";
+$lang['Comapny Email']              = "Εταιρικό email";
+$lang['Image Url']                  =  "Url εικόνας";
+$lang['Today’sOrderstobeDeliver']   = "Επόμενες παραγγελίες προς παράδοση ";
+$lang['Firebase Setting']           = "Ρύθμιση Firebase";
+$lang['Firebase Key']               = "Κλειδί Firebase";
+$lang['Google Adwords']             = "Google Adwords";
+$lang['Google Analytics']           = "Google Analytics";
+$lang['Google Admob']               = "Google Admob";
+$lang['Select Currency']            = "Επιλέξτε Νόμισμα";
+$lang['Currency']                   = "Νόμισμα";
+$lang['1 Doller']                   = "1 δολάριο";
+$lang['Current Value']              = "Τρέχουσα τιμή";
+$lang['Currency Setting']           = "Ρύθμιση νομίσματος";
+$lang['Type']                       = "Τύπος";
+$lang['desc']                       = "Περιγραφή";
+$lang['Email Host']                 = "Κεντρικός υπολογιστής email";
+$lang['Email Username']             = "Όνομα χρήστη email";
+$lang['Email Password']             = "Κωδικός πρόσβασης email";
+$lang['Email SMTP']                 = "SMTP μέσω email";
+$lang['Email Port']                 = "Θύρα email";
+$lang['Products Image Upload']      = "Μεταφόρτωση εικόνας προϊόντων";
+$lang['Facebook Pixel ID']          = "Αναγνωριστικό Pixel Facebook";
+$lang['Facebook Event ID']          = "Αναγνωριστικό συμβάντος Facebook";
+$lang['Tag Manager']                = "Διαχειριστής ετικετών";
+$lang['Pwa App Url']                = "Pwa App Url";
+$lang['Catalog']                    = "Κατάλογος";
+$lang['Sales']                      = "Εκπτώσεις";
+$lang['Tutorial']                   = "Φροντιστήριο";
+$lang['CMS']                        = "CMS";
+
+
+
+
+
+
+$lang['delivery_boy']          =  "Ντελιβεράς";
+$lang['deliveryBoyname']       =  "Όνομα αγοριού παράδοσης";
+$lang['deliveryBoyEmail']      =  "Email αγορών παράδοσης";
+$lang['deliveryBoyPassword']   =  "Κωδικός Αγόρι Παράδοσης";
+$lang['deliveryBoyPhone']      =  "Αγόρι παράδοσης κινητό";
+$lang['deliveryBoydescription']      =  "Περιγραφή αγοριού παράδοσης";
+$lang['deliveryboyStatus']     =  "Κατάσταση";
+$lang['deliveryboyDate']       =  "Ημερομηνία δημιουργίας";
+$lang['AdddeliveryBoy']        =  "Προσθήκη αγοριού παράδοσης";
+$lang['EditdeliveryBoy']       =  "Επεξεργασία αγοριού παράδοσης";
+$lang['deliveryboy']           =  "Ντελιβεράς";
+$lang['deliveryboy Image']           =  "Εικόνα αγόρι παράδοσης";
+
+$lang['BULK UPLOAD SUB CATEGORY']  = "ΚΑΤΗΓΟΡΙΑ ΜΕΓΑΛΗΣ ΑΝΑΠΤΥΞΗΣ";
+
+
+
+
+$lang['delivery_boy']   =  "Ντελιβεράς";
+$lang['delivery_boy']   =  "Ντελιβεράς";
+$lang['delivery_boy']   =  "Ντελιβεράς";
+
+
+
+
+$lang['Name']   =  "Ονομα";
+$lang['logo']   =  "Λογότυπο";
+$lang['gstin']  =  "GSTIN";
+$lang['address'] =  "Διεύθυνση";
+$lang['mobile'] =  "Κινητό";
+$lang['email'] =  "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+$lang['taxslab'] = "Φόρος";
+
+$lang['Category Icon'] = "Εικονίδιο κατηγορίας "."<br>"."(Size :640 * 480) ";
+
+    
+$lang['Setting']                    = "Σύνθεση";
+$lang['Theme Setting']              = "Ρύθμιση θέματος";
+$lang['App Setting']                = "Ρύθμιση εφαρμογών";
+$lang['Frontend Setting']           = "Ρύθμιση frontend";
+$lang['Backend Theme Setting']      = "Ρύθμιση θέματος Backend";
+$lang['Company Setting']            = "Ρύθμιση εταιρείας";
+$lang['Payment Integration']        = "Ενσωμάτωση πληρωμών";
+$lang['Invoice Template']           = "Πρότυπο τιμολογίου";
+$lang['Mail Template']              = "Πρότυπο αλληλογραφίας";
+$lang['SEO Setting']                = "Ρύθμιση SEO";
+
+$lang['SMS Template']               = "Πρότυπο SMS";
+$lang['Mange Setting']              = "Διαχείριση ρύθμισης";
+$lang['Type']                       = "Τύπος";
+$lang['order']                      = "Σειρά"; 
+$lang['Wallet']                     = "Πορτοφόλι"; 
+$lang['Total Rewards']              = "Σύνολο ανταμοιβών"; 
+$lang['Rewards']                    = "Ανταμοιβές"; 
+$lang['Parent Category']            = "Γονική κατηγορία"; 
+$lang['TAX']                        = "ΦΟΡΟΣ";
+$lang['cat title']                  = "Όνομα γάτας"; 
+$lang['product title']              = "Ονομασία προϊόντος"; 
+$lang['App Users']                  = "Χρήστες"; 
+$lang['Delivery Schedule']          = "Πρόγραμμα παραδόσεων"; 
+$lang['Stock Update']               = "Ενημέρωση αποθεμάτων"; 
+$lang['Store Management']           = "Διαχείριση καταστημάτων"; 
+$lang['Declared Reward Value']      = "Δηλωμένη τιμή ανταμοιβής";
+$lang['Deal Products']              = "Προσφορές προϊόντων"; 
+$lang['Sales Rep']                  = "Αντιπρόσωπος Πωλήσεων";
+$lang['Today Order']                = "Σήμερα παραδόθηκε παραγγελία";
+$lang['Categories']                 = "Κατηγορίες";
+$lang['Daily Orders']               = "Συνολική πώληση σήμερα"; 
+$lang['Total Order Till Date']      = "Συνολική ημερομηνία παραγγελίας";
+$lang['dashboard']                  = "ταμπλό";
+$lang['Pages']                      = "Σελίδες";
+$lang['Product Management']         = "Διαχείριση προϊόντων";
+$lang['Next Day Orders']            = "Παραγγελίες επόμενης ημέρας";
+$lang['Today Reward']               = "Σήμερα ανταμοιβή";
+$lang['Total Rewards Till Date']    = "Συνολικές ανταμοιβές μέχρι την ημερομηνία";
+$lang['Today Revenue']              = "Σήμερα Έσοδα";
+$lang['Total Revenue Till Date']    = "Συνολικά έσοδα μέχρι την ημερομηνία";
+$lang['Active Users']               = "Ενεργοί χρήστες";
+$lang['Tracked from Database Analytics'] = "Παρακολούθηση από το Analytics βάσης δεδομένων";
+$lang['Edit Profile']               = "Επεξεργασία προφίλ";
+$lang['Log Out']                    = "Αποσύνδεση";
+$lang['Profile']                    = "Προφίλ";
+$lang['Update Detail']              = "Ενημέρωση λεπτομέρειας";
+$lang['Wallet']                     = "Πορτοφόλι";
+$lang['Past Orders']                = "Προηγούμενες παραγγελίες";
+$lang['Wallet & Rewards']           = "Πορτοφόλι και ανταμοιβές";
+$lang['Secondary Slider']           = "Πανό";
+$lang['Feature Brand Slider']       = "Δυνατότητα επιπλέον ρυθμιστικού";
+$lang['Main Slider']                = "Κύριο ρυθμιστικό";
+$lang['All App Users']              = "Ολοι οι χρήστες";
+$lang['Edit Categories']            = "Επεξεργασία κατηγοριών";
+$lang['Categories Title']           = "Κατηγορίες Τίτλος";
+$lang['Parent Category']            = "Γονική κατηγορία";
+$lang['Categories icon']            = "Εικονίδιο κατηγοριών";
+$lang['Select image']               = "Επιλέξτε εικόνα";
+$lang['Category Image']             = "Εικόνα κατηγορίας";
+$lang['Select image']               = "Επιλέξτε εικόνα";
+$lang['Change']                     = "Αλλαγή";
+$lang['Save Category']              = "Αποθήκευση κατηγορίας";
+$lang['All Categories']             = "Όλες οι κατηγορίες";
+$lang['Remove']                     = "Αφαιρώ";
+$lang['BULK UPLOAD']                = "ΜΕΓΑΛΗ ΑΝΑΠΤΥΞΗ";
+$lang['No Parent']                  = "Χωρίς γονέα";
+$lang['Society List']               = "Λίστα κοινωνιών";
+$lang['Society Name']               = "Όνομα εταιρείας";
+$lang['Pincode / Area code / Zip']  = "Pincode / Κωδικός περιοχής / Zip";
+$lang['Delivery Charge']            = "Χρέωση παράδοσης";
+$lang['Society']                    = "Κοινωνία";
+$lang['Socity Name']                = "Όνομα εταιρείας";
+$lang['Update']                     = "Εκσυγχρονίζω";
+$lang['site_title']                 = "Μανάβικο"; 
+$lang['dashboard']                  = "Ταμπλό";
+$lang['Add Categories']             = 'Προσθήκη κατηγοριών';
+$lang['Preview']                    = 'Προεπισκόπηση';
+$lang['Home']                       = 'Σπίτι';
+$lang['Categories']                 = 'Κατηγορίες';
+$lang['Add Categories']             = 'Προσθήκη κατηγοριών'; 
+$lang['Categories Title :']         = 'Κατηγορίες Τίτλος:';
+$lang['Parent Category :']          = 'Γονική κατηγορία';
+$lang['No Parent']                  = 'Χωρίς γονέα';
+$lang['Categories Description :']   = 'Κατηγορίες Περιγραφή:';
+$lang['Categories Description.']    = 'Κατηγορίες Περιγραφή.';
+$lang['Categories Image:']          = 'Κατηγορίες Εικόνα:';
+$lang['Actvie']                     = 'Ενεργός';
+$lang['Deactive']                   = 'Ανενεργό';
+$lang['Set Categories Status.']     = 'Ορισμός κατηγοριών κατάστασης.';
+$lang['Add Categories']             = 'Προσθήκη κατηγοριών';
+$lang['Preview']                    = 'Προεπισκόπηση';
+$lang['Home']                       = 'Σπίτι';
+$lang['Categories']                 = 'Κατηγορίες';  
+$lang['Categories Title :']         = 'Κατηγορίες Τίτλος :';
+$lang['Parent Category :']          = 'Γονική κατηγορία';
+$lang['No Parent']                  = 'Χωρίς γονέα';
+$lang['Categories Description :']   = 'Κατηγορίες Περιγραφή :';
+$lang['Categories Description.']    = 'Κατηγορίες Περιγραφή.';
+$lang['Categories Image:']          = 'Κατηγορίες Εικόνα:';
+$lang['Actvie']                     = 'Ενεργός';
+$lang['Deactive ']                  = 'Ανενεργό ';
+$lang['Set Categories Status.']     = 'Ορισμός κατηγοριών κατάστασης.';
+$lang['All Caegories']              = 'Όλες οι κατηγορίες';
+$lang['Preview']                    = 'Προεπισκόπηση';
+$lang['Categories']                 = 'Κατηγορίες';
+$lang['All Categories']             = 'Όλες οι κατηγορίες';
+$lang['ADD']                        = 'ΠΡΟΣΘΗΚΗ';
+$lang['Cat ID']                     = 'Αναγνωριστικό γάτας';
+$lang['Image']                      = 'Εικόνα';
+$lang['Description']                = 'Περιγραφή';
+$lang['Status']                     = 'Κατάσταση';
+$lang['Action']                     = 'Δράση';
+$lang['Active']                     = 'Ενεργός';
+$lang['DeActive']                   = 'Ανενεργό'; 
+$lang['Toggle navigation']          = 'Εναλλαγή πλοήγησης';
+$lang['Sign out']                   = 'Αποσύνδεση';
+$lang['Online']                     = 'Σε σύνδεση';
+$lang['MAIN NAVIGATION']            = 'ΚΥΡΙΑ ΠΛΟΗΓΗΣΗ';
+$lang['Dashboard']                  = 'Ταμπλό';
+$lang['App Registers']              = 'Μητρώα εφαρμογών';
+$lang['Categories']                 = 'Κατηγορίες';
+$lang['Socity']                     = 'Κοινωνία';
+$lang['Products']                   = 'Προϊόντα';
+$lang['Delivery Schedule Hours']    = 'Ώρες παράδοσης';
+$lang['Time Slot']                  = 'Χρονοθήκη';
+$lang['Closing Hours']              = 'Ώρες κλεισίματος';
+$lang['Purchase']                   = 'Αγορά';
+$lang['Orders_name']                = 'Παραγγελίες';
+$lang['User Management']            = 'Διαχείριση χρηστών';
+$lang['List Admin Users']           = 'Λίστα χρηστών διαχειριστή';
+$lang['Pages']                      = 'Σελίδες';
+$lang['List']                       = 'Λίστα';
+$lang['Order Limit Setting']        = 'Ρύθμιση ορίου παραγγελίας';
+$lang['Stock']                      = 'Στοκ';
+$lang['inventory']                  = 'Καταγραφή εμπορευμάτων';
+$lang['Wallet Management']          = 'Διαχείριση Πορτοφολιού';
+
+$lang['Notification']               = 'Γνωστοποίηση';
+$lang['Order']                      = 'Σειρά';
+$lang['Order Details :']            = 'Λεπτομέρειες Παραγγελίας :';
+$lang['Order Id : ']                = 'Αριθμός Παραγγελίας : ';
+$lang['Order Date : ']              = 'Ημερομηνία παραγγελίας :';
+$lang['Delivery Details :']         = 'Λεπτομέρειες παράδοσης :';
+$lang['Contact : ']                 = 'Επικοινωνία :';
+$lang['Address :']                  = 'Διεύθυνση :';
+$lang['Delivery Time :']            = 'Ωρα παράδοσης :';
+$lang['Product Name']               = 'Ονομασία προϊόντος';
+$lang['Qty'] = 'Qty';
+$lang['Total Price']                = 'Συνολικό ποσό';
+$lang['Total :']                    = 'Σύνολο :';
+$lang['Rs.']                        = 'Δολ ΗΠΑ';
+$lang['Orders']                     = 'Παραγγελίες';
+$lang['All Orders']                 = 'Όλες οι παραγγελίες';
+$lang['Orders :']                   = 'Παραγγελίες :';
+$lang['Date range button:']         = 'Κουμπί εύρους ημερομηνιών:';
+$lang['Order ID']                   = 'Αριθμός Παραγγελίας';
+$lang['Customer Name']              = 'Όνομα πελάτη';
+$lang['Socity']                     = 'Κοινωνία';
+$lang['Customer Phone']             = 'Τηλέφωνο πελάτη';
+$lang['Date']                       = 'Ημερομηνία';
+$lang['Time']                       = 'χρόνος';
+$lang['Status']                     = 'Κατάσταση';
+$lang['Action']                     = 'Δράση';
+$lang['Details']                    = 'Λεπτομέριες';
+$lang['Action']                     = 'Δράση';
+$lang['Cancel']                     = 'Ματαίωση';
+$lang['Delete']                     = 'Διαγράφω';
+$lang['Dashboard']                  = 'Ταμπλό';
+$lang['Control panel']              = 'Πίνακας Ελέγχου';
+$lang['Home']                       = 'Σπίτι';
+$lang['Dashboard']                  = 'Ταμπλό';
+$lang['Add Page']                   = 'Προσθήκη σελίδας';
+$lang['Page Title :']               = 'Τίτλος σελίδας :';
+$lang['Page Description.']          = 'Περιγραφή σελίδας.';
+$lang['Actvie']                     = 'Ενεργός';
+$lang['Disactive']                  = 'Ανενεργό';
+$lang['Set Page Status.']           = 'Ορισμός κατάστασης σελίδας.';
+$lang['Set this page in :']         = 'Ορίστε αυτήν τη σελίδα :';
+$lang['On Footer :']                = 'Στο υποσέλιδο:';
+$lang['No']                         = 'Οχι';
+$lang['Yes']                        = 'Ναί';
+$lang['App Page']                   = 'Σελίδα εφαρμογής';
+$lang['All Pages']                  = 'Ολες οι σελίδες';
+$lang['ID ']                        = 'ταυτότητα ';
+$lang['Title ']                     = 'Τίτλος ';
+$lang['Page Slug']                  = 'Σελίδα γυμνοσάλιαγκας';
+$lang['Description']                = 'Περιγραφή';
+$lang['Action']                     = 'Δράση';
+$lang['App Page']                   = 'Σελίδα εφαρμογής';
+$lang['Edit Page :']                = 'Επεξεργασία σελίδας :';
+$lang['Page Title :']               = 'Τίτλος σελίδας :';
+$lang['Page Description.']          = 'Περιγραφή σελίδας.'; 
+ 
+ 
+$lang['Add Products']               = "Προσθήκη προϊόντων";
+$lang['Admin']                      = "διαχειριστής";
+$lang['Products']                   = "Προϊόντα";
+$lang['Product Title :']            = "Τίτλος προϊόντος :";
+$lang['Product Description :']      = "περιγραφή προϊόντος :";
+$lang['Product Description.']       = "περιγραφή προϊόντος.";
+$lang['Product Description']        = "περιγραφή προϊόντος";
+$lang['Product Category :']         = "κατηγορία προιόντος:";
+$lang['arabic']                     = "αραβικός";
+$lang['english']                    = "Αγγλικά";
+$lang['spanish']                    = "Ισπανικά";
+$lang['greek']                      = "Ελληνικά";
+$lang['hindi']                      = "Χίντι";
+
+$lang['Enquiry']                    = "Ερευνα";
+$lang['Ora Super']                  = "Ωρα Φρέσκο";
+
+
+
+$lang['Setting']                    = "Σύνθεση";
+$lang['Theme Setting']              = "Ρύθμιση θέματος";
+$lang['Company Setting']            = "Ρύθμιση εταιρείας";
+$lang['Payment Details']            = "Οι λεπτομέρειες πληρωμής";
+/* Website Data */
+$lang['Login'] = "Σύνδεση";
+$lang['Start'] = "Αρχική";
+$lang['Shop'] = "ΨΩΝΙΣΕ";
+$lang['About us'] = "Σχετικά Με Εμάς";
+$lang['About'] = "Σχετικά με";
+$lang['us'] = "μας";
+$lang['Contact us'] = "Επικοινωνήστε μαζί μας";
+$lang['Contact'] = "Επικοινωνία";
+$lang['Shop Now'] = "ΨΩΝΙΣΕ ΤΩΡΑ";
+$lang['CATEGORIES'] = "ΚΑΤΗΓΟΡΙΕΣ";
+$lang['Special Offers'] = "ΕΙΔΙΚΕΣ ΠΡΟΣΦΟΡΕΣ";
+$lang['Today Best Offer'] = "Σήμερα Καλύτερη προσφορά";
+$lang['Fast Delivery'] = "FAST DELIVERY";
+$lang['BOOK ONLINE EASY AND FAST'] = "ΠΑΡΑΓΓΕΙΛΕ ONLINE ΕΥΚΟΛΑ ΚΑΙ ΓΡΗΓΟΡΑ";
+$lang['Fill your basket from the comfort of your home'] = "Γεμίστε το καλάθι σας από την άνεση του σπιτιού σας";
+$lang['Make a final check on the contents of the order'] = "Κάντε έναν τελικό έλεγχο σχετικά με το περιεχόμενο της Παραγγελίας σας";
+$lang['Choose day and time for delivery'] = "Επιλέξτε την ημέρα και την ώρα παράδοσης";
+$lang['Take your shopping when it suits you'] = "Πάρτε τα ψώνια σας, όταν σας βολεύει";
+$lang['Copyright © 2019 Andreas the dreamer'] = "Copyright © 2020 Andreas the Dreamer";
+$lang['post code'] = "Ταχυδρομικός  Κωδικός";
+$lang['check'] = "έλεγχος";
+$lang['Categories'] = "ΚΑΤΗΓΟΡΙΕΣ";
+$lang['CATEGORIES'] = "ΚΑΤΗΓΟΡΙΕΣ";
+$lang['My Account'] = "Ο λογαριασμός μου";
+$lang['Leoforos Agias Marinoudas 100. 8240 Paphos.'] = "Λεωφόρος Αγίας Marinoudas 100. 8240 Πάφο.";
+$lang['Phone - 70007279'] = "Τηλ - 70007279";
+$lang['Fax - 26913426'] = "Φάξ - 26913426";
+$lang['Email - elkithron@yahoo.com'] = "Email - elkithron@yahoo.com";
+$lang['Email'] = "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ";
+$lang['Email Id'] = "Ταυτότητα ηλεκτρονικού ταχυδρομείου";
+$lang['SEND MESSAGE'] = "ΑΠΟΣΤΟΛΗ ΜΗΝΥΜΑΤΟΣ";
+$lang['SIGN IN'] = "ΣΥΝΔΕΘΕΙΤΕ";
+$lang['EMAIL'] = "ΣΤΕΙΛΤΕ E-MAIL";
+
+$lang['Password'] = "ΚΩΔΙΚΟΣ";
+$lang['PASSWORD'] = "ΚΩΔΙΚΟΣ";
+$lang['Remember Me!'] = "Θύμησε με!";
+$lang['Forgot your account ?'] = "Ξεχάσατε το λογαριασμό σας ;";
+$lang['Create your account'] = "ΔΗΜΙΟΥΡΓΗΣΕ ΤΟΝ ΛΟΓΑΡΙΑΣΜΟ ΣΟΥ";
+$lang['Full Name'] = "ΟΝΟΜΑΤΕΠΩΝΥΜΟ";
+$lang['Mobile No'] = "ΑΡΙΘΜΟΣ ΚΙΝΗΤΟΥ";
+$lang['Password Confirm'] = "ΕΠΙΒΕΒΑΙΩΣΗ ΚΩΔΙΚΟΥ ΠΡΟΣΒΑΣΗΣ";
+$lang['I Read or Accept Private & Policy'] = "ΙΑΒΑΣΑ ΚΑΙ ΑΠΟΔΕΧΟΜΑΙ ΤΟΥΣ ΟΡΟΥΣ ΚΑΙ ΠΡΟΥΠΟΘΕΣΕΙΣ";
+$lang['Referral Code']  = "Κωδικός παραπομπής";
+$lang['SIGN UP'] = "ΕΓΓΡΑΦΕΙΤΕ";
+$lang['Forgot your account'] = "Ξεχάσατε το λογαριασμό σας";
+$lang['PROFILE SUMMERY IS SUMMARY'] = "ΠΕΡΙΛΗΨΗ ΠΡΟΦΙΛ";
+$lang['My Profile'] = "Το ΠΡΟΦΙΛ μου";
+$lang['My Order'] = "Η παραγγελία μου";
+$lang['My Orders'] = "Η παραγγελία μου";
+$lang['Address'] = "Διεύθυνση";
+$lang['My Wallet'] = "Το πορτοφόλι μου";
+$lang['Refer and Earn'] = "Σύστησε και Κέρδισε";
+$lang['Logout'] = "Αποσυνδέση";
+$lang['Mange Profile'] = "Διαχείριση Προφίλ";
+$lang['Mange over own account ( Μanaging an Existing Account )'] = "Διαχειρίση Υφισταμενου Λογαριασμου";
+$lang['kounnaris@yahoo.com'] = "kounnaris@yahoo.com";
+$lang['ANDREAS KOUNNARIS'] = "ANDREAS KOUNNARIS";
+$lang['Old Password'] = "ΠΑΛΙΟΣ ΚΩΔΙΚΟΣ";
+$lang['New Password'] = "Νέος κωδικός πρόσβασης";
+$lang['SHOPPING CART'] = "ΑΓΟΡΕΣ ΚΑΛΑΘΙΟΥ";
+$lang['Proceed to Checkout'] = "ΠΡΟΧΩΡΗΣΤΕ ΣΤΟ ΤΑΜΕΙΟ";
+$lang['Clear Shopping Cart'] = "ΚΑΘΑΡΙΣΤΕ ΤΟ ΚΑΛΑΘΙ ΑΓΟΡΩΝ";
+$lang['Continue Shopping'] = "ΣΥΝΕΧΙΣΤΕ ΤΙΣ ΑΓΟΡΕΣ";
+$lang['ORGANIC ??  CHECKOUT '] = "ΟΛΟΚΛΗΡΩΣΗ ΠΑΡΑΓΓΕΛΙΑΣ";
+$lang['Billing Details'] = "ΛΕΠΤΟΜΕΡΕΙΕΣ ΧΡΕΩΣΗΣ";
+$lang['Select Address'] = "Επιλέξτε Διεύθυνση";
+$lang['Add Address'] = "Προσθήκη Διεύθυνσης";
+$lang['My Address'] = "Η διεύθυνσή μου";
+$lang['Select Delivery Date'] = "Επιλέξτε Ημερομηνία Παράδοσης";
+$lang['Select Delivery Time'] = "Επιλέξτε ώρα Παράδοσης";
+$lang['Additional note'] = "Συμπληρωματική σημείωση";
+$lang['PAYMENT METHOD'] = "ΜΕΘΟΔΟΣ ΠΛΗΡΩΜΗΣ";
+$lang['My wallet'] = "ΤΟ ΠΟΡΤΟΦΟΛΙ ΜΟΥ";
+$lang['Balance'] = "Υπόλοιπο";
+$lang['Your order'] = "ΠΑΡΑΓΓΕΛΙΑ ΣΑΣ";
+$lang['Cart SubTotal'] = "ΚΑΛΑΘΙ ΥΠΟΣΥΝΟΛΟ";
+$lang['Shipping & handling'] = "ΔΙΑΝΟΜΗ & ΧΕΙΡΙΣΜΟΣ ";
+$lang['User Wallet Amount'] = "User Wallet Amount";
+$lang['Order Total'] = "ΣΥΝΟΛΟ ΠΑΡΑΓΓΕΛΙΑΣ";
+$lang['Place order now'] = "ΑΠΟΣΤΟΛΗ  ΠΑΡΑΓΓΕΛΙΑΣ ΤΩΡΑ";
+$lang['ORDER CONFIRMATION'] = "ΕΠΙΒΕΒΑΙΩΣΗ ΠΑΡΑΓΓΕΛΙΑΣ";
+$lang['order details'] = "ΛΕΠΤΟΜΕΡΕΙΕΣ ΠΑΡΑΓΓΕΛΙΑΣ";
+$lang['Billing Details'] = "Λεπτομέρειες Χρέωσης";
+$lang['Name'] = "Ονομα";
+$lang['Phone'] = "Τηλέφωνο";
+$lang['Address'] = "Διεύθυνση";
+$lang['Cart Details'] = "Λεπτομέρειες Καλαθιού";
+$lang['Shipping Charges'] = "Εξοδα ΑΠΟΣΤΟΛΗΣ";
+$lang['Total'] = "Σύνολο";
+$lang['Order successfully Received'] = "Παραγγελία Ελήφθη με επιτυχία";
+$lang['Thank For Your Purchase'] = "Ευχαριστούμε για την αγορά σας";
+$lang['Return to Home'] = "ΕΠΕΣΤΡΕΨΕ ΣΤΟ ΣΠΙΤΙ";
+$lang['Continue Shopping'] = "ΣΥΝΕΧΙΣΤΕ ΤΙΣ ΑΓΟΡΕΣ";
+$lang['Call us'] = "Καλέστε μας";
+$lang['Enter Mobile No'] = "Πληκτρολογήστε το κινητό αριθ";
+$lang['Get Orders'] = "Αποκτήστε παραγγελίες";
+$lang['Search'] = "Αναζήτηση";
+$lang['Select Subject']  = "Επιλέξτε Θέμα";
+$lang['Register Now']  = "Κάνε εγγραφή τώρα";
+$lang['Enquiry']  = "Ερευνα";
+$lang['Feedback']  = "Ανατροφοδότηση";
+$lang['Bulk Order']  = "Μαζική παραγγελία";
+$lang['Service']  = "Υπηρεσία";
+$lang['Other']  = "Αλλα";
+$lang['Your Message']  = "Το μήνυμά σου";
+$lang['Send Message']  = "Να στείλετε μήνυμα";
+$lang['Enter Email Address']  = "Εισάγετε ηλεκτρονική διεύθυνση";
+$lang['Phone Number']  = "Τηλεφωνικό νούμερο";
+$lang['Enter Your Name']  = "Εισάγετε το όνομά σας";
+$lang['Sub Category']  = "Υποκατηγορία";
+$lang['Category']      = "Κατηγορία";
+$lang['Shop']          = "Κατάστημα";
+$lang['Shop Now']      = "Αποθηκεύστε τώρα";
+$lang['Related products']           = 'Σχετικά προϊόντα';
+$lang['Product Description']        = 'περιγραφή προϊόντος';
+$lang['Out Of Stock']               = 'Εξαντλήθηκε';
+$lang['Add to Cart']                = 'Προσθήκη στο καλάθι';
+$lang['Qty weight']                 = 'Ποσότητα βάρους';
+$lang['In Unit']                    = 'Στη Μονάδα';
+$lang['Availability']               = 'Διαθεσιμότητα';
+$lang['In Stock']                   = 'Σε απόθεμα';
+$lang['No Stock']                   = 'Δεν υπάρχει απόθεμα';
+$lang['Short Description']          = 'Σύντομη περιγραφή';
+$lang['Terms and']                  = 'Όροι και';
+$lang['Conditions']                 = 'Συνθήκες';
+$lang['Terms & Conditions']         = 'όροι και Προϋποθέσεις';
+$lang['FAQ']                        = 'Συχνές ερωτήσεις';
+$lang['Service']                    = 'Υπηρεσία';
+$lang['Area']                       = 'Περιοχή';
+$lang['Service Area']               = 'Περιοχή υπηρεσιών';
+$lang['Payment Method']             = 'Μέθοδος πληρωμής';
+$lang['Payment']                    = 'Πληρωμή';
+$lang['Method']                     = 'Ψώνια';
+$lang['Shopping']                   = 'Περιοχή';
+$lang['Cart']                       = 'Καροτσάκι';
+$lang['Cart Total']                 = 'Συνολικό καλάθι';
+$lang['Checkout']                   = 'ολοκλήρωση παραγγελίας';
+$lang['Organic']                   = 'Οργανικός';
+$lang['First Name']                = 'Πρώτα όνομα';
+$lang['Last Name']                 = 'τελευταίος όνομα';
+$lang['Phone Number']              = 'Τηλεφωνικό νούμερο';
+$lang['Landmark']                  = 'Ορόσημο';
+$lang['City']                      = 'Πόλη';
+$lang['Zip Code']                  = 'Ταχυδρομικοί Κώδικες';
+$lang['Addres Type']               = 'Τύπος Διεύθυνσης';
+$lang['Home']                      = 'Σπίτι';
+$lang['Work/Office']               = 'Εργασία / Γραφείο';
+$lang['COD']                       = 'COD';
+$lang['CHANGE PASSWORD']           = "ΑΛΛΑΞΕ ΚΩΔΙΚΟ";
+$lang['Send OTP']                  = "Στείλτε το OTP";
+$lang['Update']                    = "Εκσυγχρονίζω";
+$lang['Conform OTP']               = "Σύμφωνα με την OTP";
+$lang['Resend OTP']                = "Απεστάλη ξανά το OTP";
+$lang['Order Empty']               = "Άδεια παραγγελίας";
+$lang['All']                       = "Ολα";
+$lang['Complete']                  = "Πλήρης";
+$lang['Running']                   = "Τρέξιμο";
+$lang['Canceled']                  = "Ακυρώθηκε";
+$lang['Order Id']                  = "Αριθμός Παραγγελίας";
+$lang['Placed On']                 = "Τοποθετήθηκε";
+$lang['Time']                      = "χρόνος";
+$lang['Price']                     = "Τιμή";
+$lang['Items']                     = "Είδη";
+$lang['Status']                    = "Κατάσταση";
+$lang['View']                      = "Θέα";
+$lang['Pending']                   = "εκκρεμής";
+$lang['Confirm']                   = "Επιβεβαιώνω";
+$lang['Out']                       = "Εξω";
+$lang['Cancel']                    = "Ματαίωση";
+$lang['Complete']                  = "Πλήρης";
+$lang['Show Invoice']              = "Εμφάνιση τιμολογίου";
+$lang['Edit']                      = "Επεξεργασία";
+$lang['Delete']                    = "Διαγράφω";
+$lang['Wallet History']            = "Ιστορικό Πορτοφολιού";
+$lang['Date']                      = "Ημερομηνία";
+$lang['Cr.']                       = "Κρ.";
+$lang['Dr.']                       = "Δρ.";
+$lang['Description']               = "Περιγραφή";
+$lang['Your Promo Code']           = "Ο κωδικός προσφοράς σας";
+$lang['Share Your Referral Link']  = "Μοιραστείτε το σύνδεσμο παραπομπής σας";
+$lang['Gift']                      = "Δώρο";
+$lang['Get']                       = "Παίρνω";
+/* End of file ps_lang.php */
+
+//admin
+
+$lang['Enquiry']                    = "Ερευνα";
+$lang['Ora Super']                  = "Ora Fresh";
+
+
+
+
+$lang['Wallet']                     = "Πορτοφόλι";
+$lang['Rewards']                     = "Ανταμοιβές";
+$lang['Total rewards']                     = " Συνολικές ανταμοιβές";
+$lang['Pin Code']                     = " Κωδικό PIN";
+$lang['TAX']                     = " ΦΟΡΟΣ";
+$lang['cat title'] = "τίτλος γάτας"; 
+$lang['App Users'] = " Χρήστες εφαρμογών"; 
+$lang['product title'] = " τίτλος προϊόντος"; 
+$lang['Delivery Schedule'] = " Πρόγραμμα παραδόσεων"; 
+$lang['Stock Update'] = " Ενημέρωση αποθεμάτων"; 
+$lang['Store Management'] = "Διαχείριση καταστημάτων"; 
+$lang['Declared Reward Value'] = "Δηλωμένη τιμή ανταμοιβής"; 
+$lang['Deal Products'] = "Προσφορές προϊόντων"; 
+$lang['Sales Rep'] = "Αντιπρόσωπος Πωλήσεων"; 
+$lang['Today Order'] = "Σήμερα Παραγγελία"; 
+$lang['Daily Orders'] = "Καθημερινές παραγγελίες"; 
+$lang['site_title'] = "Τίτλος Ιστοσελίδας";
+$lang['Total Order Till Date'] = "Συνολική ημερομηνία παραγγελίας";
+$lang['dashboard'] = "ταμπλό";
+$lang['Dashboard'] = "ταμπλό";
+$lang['Pages'] = "Σελίδες";
+$lang['Categories'] = "Κατηγορίες";
+$lang['Next Day Orders'] = "Παραγγελίες την επόμενη μέρα";
+$lang['Today Reward'] = "Σήμερα ανταμοιβή";
+$lang['Today Revenue'] = "Σήμερα Έσοδα";
+$lang['Total Revenue Till Date'] = "Συνολικά έσοδα μέχρι την ημερομηνία";
+$lang['Total Rewards Till Date'] = "Συνολικές ανταμοιβές μέχρι την ημερομηνία";
+$lang['Active Users'] = "Ενεργοί χρήστες";
+$lang['Tracked from Database Analytics'] = "Παρακολούθηση από το Analytics βάσης δεδομένων";
+
+$lang['Add Categories'] = 'Προσθήκη κατηγοριών';
+$lang['Categories'] = 'Κατηγορίες';
+$lang['Categories Title :'] = 'Κατηγορίες Τίτλος :';
+$lang['Parent Category :'] = '  Γονική κατηγορία';
+$lang['Parent Category'] = '  Γονική κατηγορία';
+$lang['No Parent'] = 'Χωρίς γονέα';
+$lang['Categories Description :'] = 'Κατηγορίες Περιγραφή :';
+$lang['Categories Image:'] = 'Κατηγορίες Εικόνα:';
+$lang['Actvie'] = 'Ενεργός';
+$lang['Deactive'] = 'Ανενεργό';
+$lang['Set Categories Status.'] = 'Ορισμός κατηγοριών κατάστασης';
+$lang['Preview'] = 'Προεπισκόπηση';
+$lang['Home'] = 'Σπίτι';
+$lang['Parent Category :'] = ' Γονική κατηγορία';
+$lang['Actvie'] = 'Ενεργός';
+$lang['Deactive '] = 'Ανενεργό ';
+$lang['All Caegories'] = 'Όλες οι κατηγορίες';
+$lang['ADD'] = 'ΠΡΟΣΘΗΚΗ';
+$lang['Cat ID'] = 'Αναγνωριστικό γάτας';
+$lang['Image'] = 'Εικόνα';
+$lang['Description'] = 'Περιγραφή';
+$lang['Status'] = 'Κατάσταση';
+$lang['Action'] = 'Δράση';
+$lang['Active'] = 'Ενεργός';
+$lang['Deactive'] = 'Ανενεργό'; 
+$lang['Toggle navigation'] = 'Εναλλαγή πλοήγησης';
+$lang['Sign out'] = 'Αποσύνδεση';
+$lang['Online'] = 'Σε σύνδεση';
+$lang['MAIN NAVIGATION'] = 'ΚΥΡΙΑ ΠΛΟΗΓΗΣΗL';
+$lang['App Registers'] = 'Μητρώα εφαρμογών';
+$lang['Socity'] = 'Κοινωνικότητα';
+$lang['Products'] = 'Προϊόντα';
+$lang['Delivery Schedule Hours'] = 'Ώρες παράδοσης';
+$lang['Time Slot'] = 'Χρονοθήκη';
+$lang['Closing Hours'] = 'Ώρες κλεισίματος';
+$lang['Purchase'] = 'Αγορά';
+$lang['Orders_name'] = 'Παραγγελίες_όνομα';
+$lang['User Management'] = 'Διαχείριση χρηστών';
+$lang['List Admin Users'] = 'Λίστα χρηστών διαχειριστή';
+$lang['List'] = 'Λίστα';
+$lang['Order Limit Setting'] = 'Ρύθμιση ορίου παραγγελίας';
+$lang['Stock'] = ' Στοκ';
+$lang['Notification'] = 'Γνωστοποίηση';
+$lang['Order'] = 'Σειρά';
+$lang['Order Details :'] = 'Αποκλείει το del pedido :';
+$lang['Order Id : '] = 'Αναγνωριστικό Orden : ';
+$lang['Order Date :'] = 'Ημερομηνία παραγγελίας :';
+$lang['Delivery Details :'] = 'Λεπτομέρειες παράδοσης :';
+$lang['Contact :'] = 'Επικοινωνία :';
+$lang['Address :'] = 'Διεύθυνση :';
+$lang['Delivery Time :'] = 'Ωρα παράδοσης:';
+$lang['Product Name'] = 'Ονομασία προϊόντος';
+$lang['Qty'] = 'Ποτ';
+$lang['Total Price'] = 'Συνολικό ποσό';
+$lang['Total :'] = 'Σύνολο :';
+$lang['Rs.'] = 'Δολ ΗΠΑ';
+$lang['Orders'] = 'Παραγγελίες';
+$lang['All Orders'] = 'Όλες οι παραγγελίες';
+$lang['Date range button:'] = 'Κουμπί εύρους ημερομηνιών:';
+$lang['Order ID'] = 'Αριθμός Παραγγελίας';
+$lang['Customer Name'] = ' Όνομα πελάτη';
+$lang['Socity'] = 'Κοινωνικότητα';
+$lang['Customer Phone'] = 'Τηλέφωνο πελάτη';
+$lang['Date'] = 'Ημερομηνία';
+$lang['Time'] = 'χρόνος';
+$lang['Status'] = 'Κατάσταση';
+$lang['Action'] = 'Δράση';
+$lang['Details'] = 'Λεπτομέριες';
+$lang['Action'] = 'Δράση';
+$lang['Cancel'] = 'Ματαίωση';
+$lang['Delete'] = 'Διαγράφω';
+$lang['Control panel'] = 'Πίνακας Ελέγχου';
+$lang['Add Page'] = 'Προσθήκη σελίδας';
+$lang['Page Title :'] = 'Τίτλος σελίδας :';
+$lang['Page Description.'] = 'Περιγραφή σελίδας.';
+$lang['Actvie'] = 'Ενεργός';
+$lang['Disactive'] = 'Ανενεργό';
+$lang['Set Page Status.'] = 'Ορισμός κατάστασης σελίδας.';
+$lang['Set this page in :'] = 'Ορίστε αυτήν τη σελίδα :';
+$lang['On Footer :'] = 'Στο υποσέλιδο :';
+$lang['No'] = 'Οχι';
+$lang['Yes'] = 'Ναί';
+$lang['App Page'] = 'Σελίδα εφαρμογής';
+$lang['All Pages'] = 'Ολες οι σελίδες';
+$lang['ID '] = 'ταυτότητα ';
+$lang['Title '] = 'Τίτλος ';
+$lang['Page Slug'] = 'Σελίδα γυμνοσάλιαγκας';
+$lang['Description'] = 'Περιγραφή';
+$lang['Action'] = 'Δράση';
+$lang['Edit Page :'] = 'Επεξεργασία σελίδας :';
+$lang['Page Title :'] = 'Τίτλος σελίδας :';
+$lang['Page Description.'] = 'Περιγραφή σελίδας.'; 
+ 
+ 
+$lang['Add Products']                   = "Προσθήκη προϊόντων";
+$lang['Admin']                     = "διαχειριστής";
+$lang['Products']                     = "Προϊόντα";
+$lang['Product Title :']                     = "Τίτλος προϊόντος :";
+$lang['Product Description :']                     = "περιγραφή προϊόντος :";
+$lang['Product Description.']                     = "περιγραφή προϊόντος.";
+$lang['Product Description']                     = "περιγραφή προϊόντος";
+$lang['Product Category :']                     = "κατηγορία προιόντος :";
+$lang['---- Selected Products -----']                     = "---- Επιλεγμένα προϊόντα -----";
+$lang['Product Image:']                     = "Εικόνα προϊόντος:";
+$lang['In Stock']                     = "Σε απόθεμα";
+$lang['Out of stock']                     = "Μη διαθέσιμο";
+$lang['Product Status.']                     = "Κατάσταση προϊόντος.";
+$lang['Price :']                     = "Τιμή :";
+$lang['Qty :']                     = "Ποτ :";
+$lang['Unit :']                     = "Μονάδα :";
+$lang['Increament :']                     = "Αύξηση :";
+$lang['Purchase']                     = "Αγορά";
+$lang['Product']                     = "Προϊόν";
+$lang['Admin']                     = "διαχειριστής";
+$lang['Products']                     = "Προϊόντα";
+$lang['Purchase products']                     = "Αγορά προϊόντων";
+$lang['Product :']                     = "Προϊόν :";
+$lang['Price :']                     = "Τιμή :";
+$lang['Qty :']                     = "Ποτ :";
+$lang['All Products']                     = "Ολα τα προϊόντα";
+$lang['ADD']                     = "ΠΡΟΣΘΗΚΗ";
+$lang['ID']                     = "ταυτότητα";
+$lang['Title']                     = "Τίτλος";
+$lang['Category Name']                     = "όνομα κατηγορίας";
+$lang['Image']                     = "Εικόνα";
+$lang['Prices']                     = "Τιμές";
+$lang['Action']                     = "Δράση";
+$lang['Notification']                     = "Γνωστοποίηση";
+$lang['Admin']                     = "διαχειριστής";
+$lang['Add Notification']                     = "Προσθήκη ειδοποίησης";
+$lang['Notification :']                     = "Γνωστοποίηση :";
+$lang['Place some text here']                     = "Τοποθετήστε κάποιο κείμενο εδώ";
+$lang['Product Name']                     = "Ονομασία προϊόντος";
+
+$lang['Unit']                     = "Μονάδα";
+$lang['List']                     = "Λίστα";
+$lang['All']                     = "Ολα";
+$lang['Stock']                     = "Στοκ"; 
+
+
+$lang['Order Limit Setting']                     = "Ρύθμιση ορίου παραγγελίας";
+$lang['Title :']                     = "Τίτλος :";
+$lang['Amount :']                     = "Ποσό : ";
+$lang['ID']                     = "ταυτότητα";
+$lang['Value']                     = "αξία";
+$lang['Action']                     = "Δράση";
+$lang['Socity']                     = "Κοινωνία";
+$lang['Edit Socity']                     = "Επεξεργασία κοινωνίας";
+$lang['Socity Name :']                     = "Όνομα εταιρείας :";
+$lang['Pincode / Area code :']                     = "Κωδικός Pincode / Περιοχής :";
+$lang['Schedule']                     = "Πρόγραμμα";
+$lang['Closing Date']                     = "Τελευταία προθεσμία";
+$lang['Date']                     = "Ημερομηνία";
+$lang['Start Hour']                     = "Ώρα έναρξηςo";
+$lang['End Hour']                     = "Ώρα λήξης";
+$lang['From - To']                     = "Από προς";
+$lang['Price']                     = "Τιμή";
+$lang['Time Slot']                     = "Χρονοθήκη";
+$lang['Preview']                     = "Προεπισκόπηση";
+$lang['Home']                     = "Σπίτι";
+$lang['Add Time Slot']                     = "Προσθήκη χρονοθυρίδας";
+$lang['Opening Hour']                     = "Ώρα λειτουργίας";
+$lang['Closing Hour']                     = "Ώρα κλεισίματος";
+$lang['Interval(Min)']                     = "Διάστημα (ελάχιστο)";
+$lang['App Registers']                     = "Μητρώα εφαρμογών";
+$lang['User ID']                     = "ταυτότητα χρήστη";
+$lang['Name']                     = "Ονομα";
+$lang['Phone']                     = "Τηλέφωνο";
+$lang['Pincode /']                     = "Κωδικό PIN /";
+$lang['Area Code']                     = "Ταχυδρομικός κώδικας";
+$lang['Address']                     = "Διεύθυνση";
+$lang['Total Orders']                     = "Σύνολο παραγγελιών";
+$lang['Total Amount']                     = "Συνολικό ποσό";
+$lang['Status']                     = "Κατάσταση";
+$lang['Control panel']                     = "Πίνακας Ελέγχου";
+$lang['Today Orders :']                     = "Σήμερα παραγγελίες :";
+$lang['Order ID']                     = "Αναγνωριστικό Orden";
+$lang['Customer Name']                     = "Όνομα πελάτη";
+$lang['Customer Phone']                     = "Τηλέφωνο πελάτη";
+$lang['Time']                     = "χρόνος";
+$lang['Order Amount']                     = "Ποσό παραγγελίας";
+$lang['Next Day Orders :']                     = "Παραγγελίες την επόμενη μέρα";
+$lang['Sign in to your account']                     = "Συνδεθείτε στο λογαριασμό σας";
+$lang['Sign In']                     = "Συνδεθείτε";
+$lang['User Permission']                     = "Άδεια χρήστη";
+$lang['Manage Access']                     = "Διαχείριση πρόσβασης";
+$lang['User Access']                     = "Πρόσβαση χρήστη";
+$lang['Set User Access']                     = "Ορισμός πρόσβασης χρήστη";
+$lang['Submit']                     = "υποβάλλουν";
+$lang['Box Offices']                     = "Εκδοτήριο";
+$lang['Manage Theaters']                     = "Διαχείριση θεάτρων";
+$lang['Add new Boxoffice']                     = "Προσθέστε νέο Boxoffice";
+$lang['User Type']                     = "Τύπος χρήστη";
+$lang['List of User Types']                     = "Λίστα τύπων χρηστών";
+$lang['Access']                     = "Πρόσβαση";
+$lang['Set Access']                     = "Ορισμός πρόσβασης";
+$lang['Deactive']                     = "Ανενεργό";
+$lang['Active']                     = "Ενεργός";
+$lang['Add']                     = "Προσθήκη";
+$lang['*']                     = "*"; 
+
+$lang['Users']                     = "Χρήστες";
+$lang['Manage Users']                     = "Διαχείριση χρηστών";
+$lang['Add Users']                     = "Προσθήκη χρηστών";
+$lang['Full Name']                     = "Πλήρες όνομα";
+$lang['User Email']                     = "Email χρήστη";
+$lang['Password']                     = "Κωδικός πρόσβασης"; 
+$lang['Delivery Charge'] ="Χρέωση παράδοσης";
+$lang['List Purchase'] ="Λίστα λιστών";
+
+$lang['Slider'] = "Ολισθητής";
+$lang['Manage Slides'] = "Διαχείριση διαφανειών"; 
+$lang['All Slides'] = "Όλες οι διαφάνειες";
+$lang['Slider Title'] = "Τίτλος ρυθμιστικού";
+$lang['Slider Url'] = "Url του ρυθμιστικού"; 
+$lang['Add Slider'] = "Προσθήκη ρυθμιστικού";
+$lang['Edit Slider'] = "Επεξεργασία ρυθμιστικού";
+$lang['Add New'] = "Προσθεσε νεο"; 
+$lang['Select Category'] = "---- Επιλέξτε Κατηγορία -----";
+$lang['Edit Products'] ="Επεξεργασία προϊόντων";
+
+//    Coupons 
+    $lang['coupon_list'] = "κουπόνι_ λίστα";
+    $lang['Coupons'] = "Κουπόνια";
+    $lang['add_coupon'] = 'προσθέστε κουπόνι';
+    $lang['nameofcoupon'] ='κουπόνι ονόματος';
+    $lang['coupon_title'] = 'τίτλος κουπονιού';
+    $lang['coupon_code'] = 'Κωδικός κουπονιού:';
+    $lang['couponcode'] = 'Κωδικός κουπονιού';
+    $lang['value'] = 'αξία:';
+    $lang['cart_value'] = 'τιμή_καρ:';
+    $lang['uses_restriction'] = "χρησιμοποιεί_ περιορισμό";
+    $lang['coupon_name'] = "κουπόνι_ όνομα";
+    $lang['valid_from'] = "ισχύει από";
+    $lang['valid_to'] = "έγκυρο για";
+    $lang['product'] = "προϊόν";
+    $lang['validity_type'] = "εγκυρότητα_ τύπος";
+    $lang['discount_type'] = "τύπος έκπτωσης";
+    $lang['discount_value'] = "έκπτωση_τιμή";
+    $lang['cart_value'] = "τιμή_καρ";
+    $lang['uses_restriction'] = "χρησιμοποιεί_ περιορισμό";
+    $lang['action'] = "δράση";
+     $lang['Edit Profile'] = "Επεξεργασία προφίλ";
+      $lang['Log Out'] = "Αποσύνδεση";
+        $lang['Profile'] = "Προφίλ";
+        $lang['Update Detail'] = "Ενημέρωση λεπτομέρειας";
+        $lang['Wallet'] = "Πορτοφόλι";
+        $lang['Past Orders'] = "Προηγούμενες παραγγελίες";
+        $lang['All Categories'] = "Όλες οι κατηγορίες";
+        $lang['Edit Categories'] = "Επεξεργασία κατηγοριών";
+        $lang['Categories Title'] = "Κατηγορίες Τίτλος";
+        $lang['Parent Category'] = "Γονική κατηγορία";
+        $lang['Categories icon'] = "Εικονίδιο κατηγοριών";
+        $lang['Select image'] = "Επιλέξτε εικόνα";
+        $lang['Category Image'] = "Εικόνα κατηγορίας";
+        $lang['Select image'] = "Επιλέξτε εικόνα";
+        $lang['Change'] = "Αλλαγή";
+        $lang['Save Category'] = "Αποθήκευση κατηγορίας";
+         $lang['Remove'] = "Αφαιρώ";
+         $lang['No Parent'] = "Χωρίς γονέα";
+         $lang['Society List'] = "Λίστα κοινωνιών";
+          $lang['Active'] = "Ενεργός";
+           $lang['Deactive'] = "Ανενεργό";
+           $lang['Delivery Charge'] = "Χρέωση παράδοσης";
+           $lang['Society'] = "Κοινωνία";
+           $lang['Update'] = "Εκσυγχρονίζω";
+           $lang['BULK UPLOAD'] = "ΜΕΓΑΛΗ ΑΝΑΠΤΥΞΗ";
+           $lang['Price TAX (%)'] = "ΦΟΡΟΣ τιμής (%)";
+            $lang['Socity Name'] = "Όνομα εταιρείας";
+             $lang['Pincode / Area code / Zip'] = "Pincode / Κωδικός περιοχής / Zip";
+
+        
+        
+        
+        
+        $lang['Wallet & Rewards'] = "Πορτοφόλι και ανταμοιβές";
+         $lang['Name'] = "Ονομα";
+         $lang['Action'] = "Δράση";
+          $lang['All App Users'] = "Όλοι οι χρήστες εφαρμογών";
+         $lang['Total Rewards'] = "Σύνολο ανταμοιβών";
+        
+      $lang['Secondary Slider'] = "Δευτερεύον ρυθμιστικό";
+      $lang['Feature Brand Slider'] = "Ρυθμιστικό επωνυμίας χαρακτηριστικών";
+      $lang['Main Slider'] = "Κύριο ρυθμιστικό";
+        $lang['List Store Users'] = "Λίστα χρηστών καταστήματος";
+
+    // Deal of day
+    $lang['deal'] = 'συμφωνία';
+    $lang['dealofday'] = 'συμφωνία της ημέρας';
+    $lang['dealproduct'] = 'προϊόν διαπραγμάτευσης';
+    $lang['adddeal'] = 'προσθέστε προσφορά';
+    $lang['dealprice'] = 'διαπραγμάτευση:';
+    $lang['expire'] = 'εκπνέω';
+    $lang['start'] = 'αρχή';
+     $lang['end'] = 'τέλος';
+     $lang['Assign Sales Rep'] = 'Εκχώρηση αντιπροσώπου πωλήσεων';
+      $lang['Sales Rep List'] = 'Λίστα εκπροσώπων πωλήσεων';
+
+
+
+
+
+
+$lang['Add Product'] = "Προσθήκη προϊόντος";
+$lang['Interval(Min)'] = "Διάστημα (ελάχιστο)";
+$lang['Progress Bars'] = "Γραμμές προόδου";
+
+$lang['Sliders'] = "Ρυθμιστικά";
+$lang['Save'] = "Σώσει";
+
+
+
+
+
+
+
+$lang['Sliders'] = "Ρυθμιστικά";
+$lang['Save'] = "Σώσει";
+$lang['List Purchase'] = "Λίστα λιστών";
+$lang['Store Name'] = "Όνομα καταστήματος";
+$lang['QTY'] = "CANTIDAD";
+$lang['Purchase products'] = "Αγορά προϊόντων";
+$lang['(Qty must be in KG or NOS) 1000gram = 1 KG'] = "
+(Το Qty πρέπει να είναι σε KG ή NOS) 1000gr = 1 KG";
+$lang['Save Purchase'] = "
+Αποθήκευση αγοράς";
+
+
+
+
+
+
+
+
+
+$lang['Orders List'] = "Λίστα παραγγελιών";
+$lang['Customer Name'] = "Όνομα πελάτη";
+$lang['All App Users'] = "Όλοι οι χρήστες εφαρμογών";
+$lang['Customer Phone'] = "Τηλέφωνο πελάτη";
+$lang['Order Amount'] = "Ποσό παραγγελίας";
+$lang['Store'] = "Κατάστημα";
+$lang['Total Rewards'] = "Σύνολο ανταμοιβών";
+$lang['Payment Method'] = "Μέθοδος πληρωμής";
+$lang['Order Detail'] = "Λεπτομέρειες παραγγελίας";
+$lang['Delivery Charges'] = "Χρεώσεις παράδοσης";
+$lang['Net Total Amount'] = "Καθαρό συνολικό ποσόo";
+
+
+
+
+
+
+
+
+
+
+
+$lang['Store Name'] = "Όνομα καταστήματος";
+$lang['City'] = "Πόλη";
+$lang['Employee Name'] = "όνομα υπαλλήλου";
+$lang['Mobile No'] = "Οχι κινητό";
+$lang['Add Photo'] = "Προσθήκη φωτογραφίας";
+$lang['Store Name'] = "Όνομα καταστήματος";
+$lang['ADD NEW STORE'] = "ΠΡΟΣΘΗΚΗ ΝΕΟΥ ΚΑΤΑΣΤΗΜΑΤΟΣ";
+$lang['ADD SALES REP'] = "ΠΡΟΣΘΗΚΗ ΠΩΛΗΣΕΩΝ";
+$lang['Client Name'] = "Όνομα Πελάτη";
+$lang['Client Mobile No'] = "Αριθμός κινητού πελάτη";
+$lang['Client Email'] = "Email πελάτη";
+$lang['Sales Man'] = "Πωλητής";
+$lang['Select Sales Man'] = "Επιλέξτε Sales Man";
+$lang['Purchase products'] = "Αγορά προϊόντωνs";
+$lang['Page Title'] = "Τίτλος σελίδας";
+$lang['Page Description'] = "Περιγραφή σελίδας";
+$lang['Place some text here'] = "Τοποθετήστε κάποιο κείμενο εδώ";
+$lang['Add Society'] = "Προσθήκη κοινωνίας";
+
+
+$lang['Rewards Value'] = "Αξία ανταμοιβών";
+$lang['Order Limit Setting'] = "Ρύθμιση ορίου παραγγελίας";
+$lang['All Stock'] = "Όλα τα αποθέματα";
+$lang['Send'] = "Στείλετε";
+$lang['All Stock'] = "Όλα τα αποθέματα";
+$lang['Slider Url'] = "Url του ρυθμιστικού";
+
+
+$lang['Add Slider'] = "Προσθήκη ρυθμιστικού";
+$lang['Sub Category'] = "Υποκατηγορία";
+$lang['Select Status'] = "Επιλέξτε Κατάσταση";
+$lang['Slider Title'] = "Τίτλος ρυθμιστικού";
+$lang['Add Banner'] = "Προσθήκη Banner";
+$lang['Select Sub Category'] = "Επιλέξτε Υποκατηγορία";
+
+
+$lang['All Banner'] = "Όλα τα πανό";
+$lang['All Banners'] = "Όλα τα πανό";
+$lang['S.No'] = "Σειριακός αριθμός";
+$lang['Coupon Name'] = "Όνομα κουπονιού";
+$lang['Coupon Code'] = "Κωδικός κουπονιού";
+$lang['Valid From'] = "Ισχύει από";
+$lang['Valid To'] = "Εγκυρο για";
+$lang['Discount Value'] = "Αξία έκπτωσης";
+$lang['Cart Value'] = "Αξία καλαθιού";
+$lang['Uses Resriction'] = "Χρησιμοποιεί περιορισμό";
+
+
+
+
+$lang['ADD COUPON'] = "ΠΡΟΣΘΗΚΗ ΚΟΥΠΟΥΝΙ";
+$lang['Name of The Coupon'] = "Όνομα του κουπονιού";
+$lang['Validity'] = "Εγκυρότητα";
+$lang['Date From'] = "Ημερομηνία από";
+$lang['Date To'] = "Ημερομηνία έως";
+$lang['Edit Coupon'] = "Επεξεργασία κουπονιού";
+$lang['Start Date'] = "Ημερομηνία έναρξης";
+$lang['All Coupon List'] = "Όλη η λίστα κουπονιών";
+$lang['Start Time'] = "Ωρα έναρξης";
+$lang['End Date'] = "Ημερομηνία λήξης";
+$lang['End Time'] = "Τέλος χρόνου";
+$lang['Expire'] = "Εκπνέω";
+
+
+
+$lang['Add Products'] = "Προσθήκη προϊόντων";
+$lang['Product Title'] = "Τίτλος προϊόντος";
+
+$lang['Deal Price'] = "Τιμή διαπραγμάτευσης";
+$lang['Start From'] = "Ξεκίνα από";
+$lang['Start Date'] = "Ημερομηνία έναρξης";
+$lang['End To'] = "Τέλος έως";
+$lang['Edit Product'] = "Επεξεργασία προϊόντος";
+
+$lang['Contact For Help'] = "Επικοινωνία για βοήθεια";
+$lang['Message'] = "Μήνυμα";
+$lang['Category Title'] = "Τίτλος κατηγορίας";
+$lang['Add Category'] = "Προσθήκη κατηγορίας »]";
+
+$lang['Raise a Ticket'] = "Λεβέντα και Μπολέτο";
+
+
+
+
+/* End of file ps_lang.php */
+/* Location: ./system/language/english/ps_lang.php */
+>>>>>>> main
 /* Location: ./system/language/english/ps_lang.php */
